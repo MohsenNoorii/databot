@@ -39,7 +39,7 @@ print(Fore.MAGENTA + '| |__| | | |\  | | |\  |' + Fore.YELLOW + '| |  | | | |___
 print(Fore.MAGENTA + '|_____/  |_| \_| |_| \_|' + Fore.YELLOW + '|_|  |_| |______|')
 print(Fore.YELLOW + '-----------------------------------------')
 print(Fore.YELLOW + '|' + Fore.BLUE +  " Telegram Deanonymization bot builder  " + Fore.YELLOW + '|')
-print(Fore.YELLOW + '|' + Fore.BLUE +  "       Developer: @tiivik         " + Fore.YELLOW + '|')
+print(Fore.YELLOW + '|' + Fore.BLUE +  "       Developer: @pwngit         " + Fore.YELLOW + '|')
 print(Fore.YELLOW + '|' + Fore.BLUE +  "        Channel: @tiivik         " + Fore.YELLOW + '|')
 print(Fore.YELLOW + '-----------------------------------------')
 userid = input(Fore.RED +  "Enter your Telegram ID > ")
